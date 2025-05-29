@@ -1,2 +1,2 @@
 A netflix clone
-with html css
+with html , css
